@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @thlory
+- 👀 I’m interested in cyber security 
+- 🌱 I’m currently learning webdevelopment and exploitation
